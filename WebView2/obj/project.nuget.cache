@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QSMSSBRFTVvkkSrKh2Bk7TdlFOXj/aj+s5ItHtM7QO2/o5EX5uNlBFt97YEwkO3WY9YsB5aEqn3f9xCkO7AHZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bt385.EMLAKBANK\\source\\repos\\WebView2\\WebView2\\WebView2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bt385.EMLAKBANK\\.nuget\\packages\\microsoft.toolkit.wpf.ui.controls.webview\\6.0.0\\microsoft.toolkit.wpf.ui.controls.webview.6.0.0.nupkg.sha512",
+    "C:\\Users\\bt385.EMLAKBANK\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.18362.2005\\microsoft.windows.sdk.contracts.10.0.18362.2005.nupkg.sha512",
+    "C:\\Users\\bt385.EMLAKBANK\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\bt385.EMLAKBANK\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
